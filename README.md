@@ -1,2 +1,2 @@
-# helm_releases
+# Helm release
 Mirror of helm releases
